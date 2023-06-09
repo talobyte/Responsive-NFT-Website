@@ -1,10 +1,10 @@
-NFTC - Explore world's best NFT
+Responsive NFT Website
 
 
 
 #---------- HEADER ----------#
 
-alt = NFTC Logo
+alt = NFTWebsite Logo
 
 Menu
 
@@ -266,7 +266,7 @@ placeholder = info@yourmail.com
 aria-label = Submit
 <ion-icon name="paper-plane-outline"></ion-icon>
 
-&copy; 2022 codewithsadee. All Rights Reserved
+&copy; 2023 alphaotuken. All Rights Reserved
 
 
 
