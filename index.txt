@@ -1,7 +1,6 @@
 Responsive NFT Website
 
 
-
 #---------- HEADER ----------#
 
 alt = NFTWebsite Logo
